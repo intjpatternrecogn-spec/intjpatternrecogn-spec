@@ -16,8 +16,8 @@ I am a China-based AI engineer and researcher focused on **autonomous driving, r
 
 I am exploring a clean-room, **JEV-inspired candidate-embedding architecture** in which shared state is encoded once, a question-conditioned representation is produced, and a dynamic candidate set is scored in parallel. I extend this design for two physical-AI domains:
 
-- **JEV Autonomous Driving** — adds deterministic safety shielding, dynamics-aware priors, temporal stability and low-confidence abstention.
-- **JEV Robotics** — adds reachability, payload, collision and human-separation constraints, plus time/energy-aware ranking.
+- **[JEV Autonomous Driving](https://github.com/intjpatternrecogn-spec/jev-autonomous-driving)** — adds deterministic safety shielding, dynamics-aware priors, temporal stability and low-confidence abstention.
+- **[JEV Robotics](https://github.com/intjpatternrecogn-spec/jev-robotics)** — adds reachability, payload, collision and human-separation constraints, plus time/energy-aware ranking.
 
 These are independent research implementations based on a public architecture hypothesis. JEV's proprietary internal neural architecture has not been disclosed, and my work is not presented as TypeSafe AI's official implementation.
 
